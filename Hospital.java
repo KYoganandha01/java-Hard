@@ -89,7 +89,7 @@ class PatientManagementSystem {
     }
 }
 
-public class Main {
+public class Hospital {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         PatientManagementSystem system = new PatientManagementSystem();
